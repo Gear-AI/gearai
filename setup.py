@@ -28,7 +28,7 @@ setup(
     'Intended Audience :: Science/Research',
     'Intended Audience :: Education',
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: GNU General Public License Version 3',
+    'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
     'Programming Language :: Python :: 3',      
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
