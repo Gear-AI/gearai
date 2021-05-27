@@ -1,2 +1,1 @@
-from . import ga
-from .ga import *
+from gearai.ga import *
