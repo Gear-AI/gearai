@@ -11,7 +11,7 @@ with open(os.path.join(os.path.dirname(__file__), "README.md")) as f:
 setup(
   name = 'gearai',         
   packages = ['gearai'],
-  version = '1.0.0',
+  version = '1.0.1',
   license='GNU General Public Version 3',
   description = 'Gear AI is the open source Python Library for solving various AI needs',
   long_description = long_description,
