@@ -1,2 +1,1 @@
-from . import tf
-from .tf import *
+from gearai.ga import *
