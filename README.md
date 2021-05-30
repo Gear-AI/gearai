@@ -22,3 +22,8 @@ If pip doesn't work, try using
 ```shell
 pip3 install gearai
 ``` 
+### Usage: 
+To import gearai library, add the line 
+```python
+import gearai
+``` 
