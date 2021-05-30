@@ -15,10 +15,10 @@ Runs on Windows, MacOS and Linux
 
 ### Installation: 
 To install, Open the Command Prompt (or) Terminal and type 
-```python
+```shell
 pip install gearai
 ``` 
 If pip doesn't work, try using 
-```python
+```shell
 pip3 install gearai
 ``` 
