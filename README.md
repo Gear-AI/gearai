@@ -21,6 +21,3 @@ import gearai
 
 ### Documentation: 
 Documentation will be added soon.
-
-### For bugs/suggestions:
-Leave a message [here](https://t.me/ToastCoder) 
